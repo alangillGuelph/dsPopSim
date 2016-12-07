@@ -1,0 +1,13 @@
+Use of this software in part or in whole to produce results whether published,
+presented or displayed online should cite the software or where appropriate 
+the paper(s) for which the software was originally designed.
+
+Software:
+Langille, A., Arteca, E., Newman, J. (2016).  dsPopSim: Drosophila Suzukii Population Simulator (Version 1.0) [Software].  Available from XXX
+
+Research Papers:
+Langille AB, Arteca EM, Ryan GD, Emiljanowicz LM, Newman JA. North American 
+invasion of Spotted-Wing Drosophila (Drosophila suzukii): A mechanistic model 
+of population dynamics. Ecological Modelling. 2016 Sep 24;336:70-81.
+
+

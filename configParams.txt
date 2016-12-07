@@ -1,0 +1,210 @@
+latitude: 45.7				: latitude for Hillsborough, FL
+
+diapause critical temp: 18.0
+diapause daylight hours: 10.0
+
+fruit n: 4.0
+fruit m: 0.75
+fruit time lag: 50.0
+fruit base temp: 4.0
+fruit gt multiplier: 4.0
+fruit harvest cutoff: 0.95
+fruit harvest drop: 0.1
+
+male proportion: 0.5
+
+fertility amplitude: 10.0
+fertility var1: 0.2
+fertility mean temp: 19.6
+fertility stdev temp: 2.0
+fertility tmin: 5.0
+fertility tmax: 30.0
+
+initial eggs: 0
+eggs development max: 0.104
+eggs development beta: 1.0
+eggs development tmin: 10.0
+eggs development tref: 16.0
+eggs development tmax: 32.0
+eggs development q: 1.0
+eggs mortality max: 0.3288
+eggs mortality min temp: 3.0
+eggs mortality max temp: 33.0
+eggs mortality tau: 8.1776
+eggs mortality beta0: 0.1602
+eggs mortality beta1: -0.0077
+eggs mortality beta2: 3.2E-4
+eggs mortality beta3: -2.0E-6
+eggs mortality due to predation: 0.0
+
+initial instar1: 0
+instar1 development max: 0.082
+instar1 development beta: 1.0
+instar1 development tmin: 10.0
+instar1 development tref: 16.0
+instar1 development tmax: 32.0
+instar1 development q: 1.0
+instar1 mortality max: 0.2688
+instar1 mortality min temp: 3.0
+instar1 mortality max temp: 33.0
+instar1 mortality tau: 8.1776
+instar1 mortality beta0: 0.1402
+instar1 mortality beta1: -0.0077
+instar1 mortality beta2: 3.2E-4
+instar1 mortality beta3: -2.0E-6
+instar1 mortality due to predation: 0.0
+
+initial instar2: 0
+instar2 development max: 0.112
+instar2 development beta: 1.0
+instar2 development tmin: 10.0
+instar2 development tref: 16.0
+instar2 development tmax: 32.0
+instar2 development q: 1.0
+instar2 mortality max: 0.102
+instar2 mortality min temp: 3.0
+instar2 mortality max temp: 33.0
+instar2 mortality tau: 8.1776
+instar2 mortality beta0: 0.0846
+instar2 mortality beta1: -0.0077
+instar2 mortality beta2: 3.2E-4
+instar2 mortality beta3: -2.0E-6
+instar2 mortality due to predation: 0.0
+
+initial instar3: 0
+instar3 development max: 0.231
+instar3 development beta: 1.0
+instar3 development tmin: 10.0
+instar3 development tref: 16.0
+instar3 development tmax: 32.0
+instar3 development q: 1.0
+instar3 mortality max: 0.1068
+instar3 mortality min temp: 3.0
+instar3 mortality max temp: 33.0
+instar3 mortality tau: 8.1776
+instar3 mortality beta0: 0.0862
+instar3 mortality beta1: -0.0077
+instar3 mortality beta2: 3.2E-4
+instar3 mortality beta3: -2.0E-6
+instar3 mortality due to predation: 0.0
+
+initial pupae: 0
+pupae development max: 0.47
+pupae development beta: 1.0
+pupae development tmin: 10.0
+pupae development tref: 16.0
+pupae development tmax: 32.0
+pupae development q: 1.0
+pupae mortality max: 0.0303
+pupae mortality min temp: 3.0
+pupae mortality max temp: 33.0
+pupae mortality tau: 8.1776
+pupae mortality beta0: 0.0607
+pupae mortality beta1: -0.0077
+pupae mortality beta2: 3.2E-4
+pupae mortality beta3: -2.0E-6
+pupae mortality due to predation: 0.0
+
+initial males: 0
+males mortality max: 0.1398
+males mortality min temp: 3.0
+males mortality max temp: 33.0
+males mortality tau: 8.1776
+males mortality beta0: 0.0972
+males mortality beta1: -0.0077
+males mortality beta2: 3.2E-4
+males mortality beta3: -2.0E-6
+males mortality due to predation: 0.0
+
+initial females1: 0
+females1 mortality max: 0.0537
+females1 mortality min temp: 3.0
+females1 mortality max temp: 33.0
+females1 mortality tau: 8.1776
+females1 mortality beta0: 0.0685
+females1 mortality beta1: -0.0077
+females1 mortality beta2: 3.2E-4
+females1 mortality beta3: -2.0E-6
+females1 mortality due to predation: 0.0
+females1 constant dev rate: 0.0125
+females1 egg viability: 0.832
+
+initial females2: 0
+females2 mortality max: 0.12
+females2 mortality min temp: 3.0
+females2 mortality max temp: 33.0
+females2 mortality tau: 8.1776
+females2 mortality beta0: 0.0906
+females2 mortality beta1: -0.0077
+females2 mortality beta2: 3.2E-4
+females2 mortality beta3: -2.0E-6
+females2 mortality due to predation: 0.0
+females2 constant dev rate: 0.1
+females2 egg viability: 0.807
+
+initial females3: 0
+females3 mortality max: 0.45
+females3 mortality min temp: 3.0
+females3 mortality max temp: 33.0
+females3 mortality tau: 8.1776
+females3 mortality beta0: 0.2006
+females3 mortality beta1: -0.0077
+females3 mortality beta2: 3.2E-4
+females3 mortality beta3: -2.0E-6
+females3 mortality due to predation: 0.0
+females3 constant dev rate: 0.1
+females3 egg viability: 0.763
+
+initial females4: 0
+females4 mortality max: 0.0
+females4 mortality min temp: 3.0
+females4 mortality max temp: 33.0
+females4 mortality tau: 8.1776
+females4 mortality beta0: 0.0506
+females4 mortality beta1: -0.0077
+females4 mortality beta2: 3.2E-4
+females4 mortality beta3: -2.0E-6
+females4 mortality due to predation: 0.0
+females4 constant dev rate: 0.2
+females4 egg viability: 0.556
+
+initial females5: 0
+females5 mortality max: 0.75
+females5 mortality min temp: 3.0
+females5 mortality max temp: 33.0
+females5 mortality tau: 8.1776
+females5 mortality beta0: 0.3006
+females5 mortality beta1: -0.0077
+females5 mortality beta2: 3.2E-4
+females5 mortality beta3: -2.0E-6
+females5 mortality due to predation: 0.0
+females5 constant dev rate: 0.25
+females5 egg viability: 0.324
+
+initial females6: 0
+females6 mortality max: 0.6
+females6 mortality min temp: 3.0
+females6 mortality max temp: 33.0
+females6 mortality tau: 8.1776
+females6 mortality beta0: 0.2506
+females6 mortality beta1: -0.0077
+females6 mortality beta2: 3.2E-4
+females6 mortality beta3: -2.0E-6
+females6 mortality due to predation: 0.0
+females6 constant dev rate: 0.2
+females6 egg viability: 0.257
+
+initial females7: 0
+females7 mortality max: 0.8367
+females7 mortality min temp: 3.0
+females7 mortality max temp: 33.0
+females7 mortality tau: 8.1776
+females7 mortality beta0: 0.3295
+females7 mortality beta1: -0.0077
+females7 mortality beta2: 3.2E-4
+females7 mortality beta3: -2.0E-6
+females7 mortality due to predation: 0.0
+females7 egg viability: 0.0
+
+
+constant temp: 15.0
